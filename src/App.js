@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import ButtonComponent from './Component/ButtonComponent';
-import MultiButtonComponent from  './Component/MultiButtonComponent';
+import ButtonComponent from './Component/Basic/ButtonComponent';
+import MultiButtonComponent from  './Component/Basic/MultiButtonComponent';
 import Field1 from './Component/Form/Field1';
 import InputField from './Component/InputField/InputField';
 import React, { useState } from "react";
